@@ -1,1 +1,1 @@
-# entityExtraction
+# Entity Extraction
